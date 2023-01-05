@@ -1,0 +1,61 @@
+.header {
+    margin: 0;
+    padding: 50px 0;
+    background-image: url("../images/donation7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+
+}
+.lets-help h1 {
+    color: white;
+}
+.lets-help p {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+
+    font-weight: 700;
+    font-size: 50px;
+}
+p {
+    text-align: center;
+}
+.btn-primary {
+    text-align: center;
+    padding: 40px;
+
+}
+.btn-sec {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #e44a63;
+}
+.donate-today {
+    padding: 100px;
+}
+.container-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.container-value {
+
+    padding: 30px 20px;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.container-value:hover {
+    color: red;
+    background: pink;
+    border: 50px;
+}
