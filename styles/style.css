@@ -57,5 +57,31 @@ p {
 .container-value:hover {
     color: red;
     background: pink;
-    border: 50px;
+    border: 0.3px solid red;
+
+}
+.amount{
+    text-align: center;
+    padding: 30px 0 10px;
+    
+}
+input{
+    border: 0;
+}
+.donate-plan{
+    display: flex;
+    gap: 30px;
+    
+    
+}
+.d-p{
+    padding: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.their-lives, .they-need{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 30px;
 }
